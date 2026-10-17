@@ -76,13 +76,13 @@ write it up as an incident report.
    domain after any lookup.
 8. **Reported.** Documented IOCs, findings, limitations, and containment steps.
 
-   ![Wireshark packet list](packet-list.jpg)
+   ![Wireshark packet list](packet-list.png)
 
-   *Figure 1. Queries from 10.20.57.3 rotate MX, CNAME and TXT, each with a unique hex-encoded subdomain of cisco-update.com.*
+*Figure 1. Queries from 10.20.57.3 rotate MX, CNAME and TXT, each with a unique hex-encoded subdomain of cisco-update.com.*
 
-   ![I/O graph](io-graph.jpg)
+![I/O graph](io-graph.png)
 
-   *Figure 2. I/O graph at 2-second intervals: a steady polling baseline for the full hour, with spikes where data was transferred.*
+*Figure 2. I/O graph at 2-second intervals: a steady polling baseline for the full hour, with spikes where data was transferred.*
 
 ---
 
