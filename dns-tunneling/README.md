@@ -11,7 +11,7 @@
 host `10.20.57.3` and the attacker domain `cisco-update.com`, carried over two
 concurrent dnscat2 sessions.
 
-> ⚠️ **Lab environment.** This analysis was performed on a provided training packet
+> **Lab environment.** This analysis was performed on a provided training packet
 > capture in an isolated lab. No production systems were involved, and no traffic
 > was generated against any system I was not authorized to test.
 
